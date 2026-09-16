@@ -1,8 +1,11 @@
 # OverTheWire Bandit — Complete Write-Up
 
 **Author:** vinay / https://github.com/vinaysec-ui
+
 **Date Completed:** September 16, 2024
+
 **Platform:** [OverTheWire](https://overthewire.org/wargames/bandit/)
+
 **Levels:** 0 → 34
 
 ---
